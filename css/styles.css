@@ -13,10 +13,6 @@ img {
   transform: translate(-50%, -50%);
 }
 
-.container h1 {
-  color: rgba(255, 255, 255);
-}
-
 .login-form {
   height:310px;
   width:270px;
